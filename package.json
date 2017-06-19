@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Better errors for ocaml",
   "dependencies": {
-    "ocamlRe": ">=0.0.2"
+    "re": "bsansouci/re#bsb-support"
+  },
+  "devDependencies": {
+    "bs-platform": "bsansouci/bucklescript#simple-native-compilation"
   },
   "repository": {
     "type": "git",
